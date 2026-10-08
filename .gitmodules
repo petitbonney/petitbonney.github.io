@@ -1,3 +1,6 @@
 [submodule "GCP-Professional-Data-Engineer-Exam-Atlas"]
 	path = GCP-Professional-Data-Engineer-Exam-Atlas
 	url = https://github.com/petitbonney/GCP-Professional-Data-Engineer-Exam-Atlas
+[submodule "chess-puzzle-generator-vanilla"]
+	path = chess-puzzle-generator-vanilla
+	url = https://github.com/petitbonney/chess-puzzle-generator-vanilla
