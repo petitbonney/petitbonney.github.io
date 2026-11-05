@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows / Linux
+Thumbs.db
+Desktop.ini
+*~
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code local config
+.claude/
+
+# Node (tests, any future tooling)
+node_modules/
+coverage/
+*.log
+
+# Python (local http.server, json.tool)
+__pycache__/
+*.py[cod]
+.venv/
+
+# Secrets and local overrides
+.env
+.env.*
+!.env.example
+
+# Scratch
+*.tmp
+*.bak

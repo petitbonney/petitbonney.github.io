@@ -1,0 +1,12 @@
+{
+  "site": {
+    "name": "petitbonney",
+    "alias": "ΔLΣX 🌸",
+    "intro": "Data Platform Engineer with 7+ years of experience designing large-scale data platforms with Scala, Spark and Databricks on Azure. At Ubisoft, I led the migration of an on-premise platform to Databricks and designed a shared Spark framework used across multiple products.",
+    "links": [
+      { "label": "GitHub", "url": "https://github.com/petitbonney" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/alexandre-bonnet/" }
+    ]
+  },
+  "projects": []
+}
