@@ -33,6 +33,14 @@
       "source": "https://github.com/petitbonney/chess-puzzle-generator-vanilla",
       "image": "images/chess-puzzle-generator.png",
       "tags": ["JavaScript", "Chess"]
+    },
+    {
+      "title": "Geohash",
+      "description": "Convert between addresses, latitude/longitude and geohashes.",
+      "url": "https://petitbonney.github.io/geohash/",
+      "source": "https://github.com/petitbonney/geohash",
+      "image": "images/geohash.png",
+      "tags": ["JavaScript", "Geospatial"]
     }
   ]
 }
