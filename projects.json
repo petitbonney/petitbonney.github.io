@@ -17,6 +17,14 @@
       "image": "https://raw.githubusercontent.com/petitbonney/ovrly/refs/heads/master/docs/public/hero.webp",
       "tags": ["JavaScript", "Automation", "Live streaming"],
       "featured": true
+    },
+    {
+      "title": "GCP Data Engineer Exam Atlas",
+      "description": "An interactive mind map for studying for the Google Cloud Professional Data Engineer certification.",
+      "url": "https://petitbonney.github.io/GCP-Professional-Data-Engineer-Exam-Atlas/",
+      "source": "https://github.com/petitbonney/GCP-Professional-Data-Engineer-Exam-Atlas",
+      "image": "images/gcp-exam-atlas.png",
+      "tags": ["JavaScript", "GCP", "Data Engineering"]
     }
   ]
 }
