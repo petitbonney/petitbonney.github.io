@@ -8,5 +8,15 @@
       { "label": "LinkedIn", "url": "https://www.linkedin.com/in/alexandre-bonnet/" }
     ]
   },
-  "projects": []
+  "projects": [
+    {
+      "title": "ovrly",
+      "description": "Node-based automation for live stream interactions.",
+      "url": "https://petitbonney.github.io/ovrly/",
+      "source": "https://github.com/petitbonney/ovrly",
+      "image": "https://raw.githubusercontent.com/petitbonney/ovrly/refs/heads/master/docs/public/hero.webp",
+      "tags": ["JavaScript", "Automation", "Live streaming"],
+      "featured": true
+    }
+  ]
 }
