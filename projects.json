@@ -25,6 +25,14 @@
       "source": "https://github.com/petitbonney/GCP-Professional-Data-Engineer-Exam-Atlas",
       "image": "images/gcp-exam-atlas.png",
       "tags": ["JavaScript", "GCP", "Data Engineering"]
+    },
+    {
+      "title": "Chess Puzzle Generator",
+      "description": "A tiny Chess Puzzle Generator UI",
+      "url": "https://petitbonney.github.io/chess-puzzle-generator-vanilla/",
+      "source": "https://github.com/petitbonney/chess-puzzle-generator-vanilla",
+      "image": "images/chess-puzzle-generator.png",
+      "tags": ["JavaScript", "Chess"]
     }
   ]
 }
